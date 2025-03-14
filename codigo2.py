@@ -1,3 +1,0 @@
-nombre = "Jaquelin"
-
-me to
